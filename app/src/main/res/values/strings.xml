@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+
+    <string name="btnPlayOrPause">PlAY/PAUSE</string>
+    <string name="btnStop">STOP</string>
+    <string name="btnQuit">QUIT</string>
+    <string name="btnPre">PREVIOUS</string>
+    <string name="btnNext">NEXT</string>
+
+    <string name="play">Play</string>
+    <string name="playing">Playing</string>
+    <string name="pause">Pause</string>
+    <string name="zeroTime">00:00</string>
+    <string name="btnBackward">backward</string>
+    <string name="btnForward">forward</string>
+    <string name="title">Title</string>
+    <string name="songsListTitle">歌单</string>
+</resources>
